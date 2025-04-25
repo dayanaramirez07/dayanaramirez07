@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋,Soy Dayana Ramírez Areiza</h1>
+<h1 align="center">Hola 👋, Soy Dayana Ramírez Areiza</h1>
 <h3 align="center">Una apasionada por el Desarrollo Frontend en Angular</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dayanaramirez07&label=Profile%20views&color=0e75b6&style=flat&locale=es" alt="dayanaramirez07" /> </p>

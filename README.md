@@ -9,7 +9,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Dart y Flutter**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://dayana-ramirez-areiza-portafolio.vercel.app/](https://dayana-ramirez-areiza-portafolio.vercel.app/)
+- 👨‍💻 Algunos de mis proyectos están disponibles en [https://dayana-ramirez-areiza-portafolio.vercel.app/](https://dayana-ramirez-areiza-portafolio.vercel.app/)
 
 - 💬 Pregúntame sobre **Angular, Bootstrap y Bulma**
 

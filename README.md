@@ -28,5 +28,3 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dayanaramirez07&show_icons=true&locale=es&layout=compact" alt="dayanaramirez07" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dayanaramirez07&show_icons=true&locale=es" alt="dayanaramirez07" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dayanaramirez07&locale=es" alt="dayanaramirez07" /></p>

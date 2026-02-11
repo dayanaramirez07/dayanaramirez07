@@ -5,10 +5,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.mindinventory.com/blog/wp-content/uploads/2022/10/frontend-development-tools.png">
 
-- 🔭 Actualmente estoy trabajando en [Frontend-UniFavors](https://github.com/dayanaramirez07/Frontend-UniFavors)
-
-- 🌱 Actualmente estoy aprendiendo **Dart y Flutter**
-
 - 👨‍💻 Algunos de mis proyectos están disponibles en [https://dayana-ramirez-areiza-portafolio.vercel.app/](https://dayana-ramirez-areiza-portafolio.vercel.app/)
 
 - 💬 Pregúntame sobre **Angular, Bootstrap y Bulma**
